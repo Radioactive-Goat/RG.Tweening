@@ -1,0 +1,22 @@
+{
+    "name": "com.radioactivegoat.tweening",
+    "version": "0.1.0",
+    "displayName": "RG.Tweening",
+    "description": "Tweening library from yours truly",
+    "unity": "2022.3",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+    "dependencies": {
+   },
+   "keywords": [
+      "Events",
+      "Event System",
+      "Delegates"
+    ],
+    "author": {
+      "name": "Radioactive Goat",
+      "email": "radioactivegoatstudios@gmail.com",
+      "url": "https://radioactivegoat.github.io"
+    }
+  }
